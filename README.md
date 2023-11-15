@@ -1,6 +1,6 @@
-# 🦙🎛️ LLaMA-LoRA Tuner
+# Caliber Model Tuner
 
-<a href="https://colab.research.google.com/github/zetavg/LLaMA-LoRA-Tuner/blob/main/LLaMA_LoRA.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 
 Making evaluating and fine-tuning LLaMA models with low-rank adaptation (LoRA) easy.
 
@@ -12,7 +12,7 @@ Making evaluating and fine-tuning LLaMA models with low-rank adaptation (LoRA) e
 >
 > For more info, see: https://github.com/zetavg/LLaMA-LoRA-Tuner/discussions/28.
 > 
-> https://github.com/zetavg/LLaMA-LoRA-Tuner/assets/3784687/ae81a5ed-fe8b-4b17-bea1-455837c2e909
+> 
 
 ## Features
 
